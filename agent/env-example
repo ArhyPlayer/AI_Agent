@@ -1,0 +1,10 @@
+# OpenAI API Configuration
+OPENAI_API_KEY=your-api-key-here
+OPENAI_BASE_URL=https://api.proxyapi.ru/openai/v1
+
+# Model configuration
+OPENAI_MODEL=gpt-5-mini
+
+# Telegram Bot Configuration
+TELEGRAM_BOT_TOKEN=your-telegram-bot-token-here
+

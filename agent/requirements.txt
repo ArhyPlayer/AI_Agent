@@ -1,0 +1,12 @@
+openai
+langchain
+langchain-openai
+langchain-community
+langchain-core
+duckduckgo-search
+requests
+python-dotenv
+geopy
+pyTelegramBotAPI
+qrcode[pil]
+sympy
